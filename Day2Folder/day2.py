@@ -4,8 +4,10 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-
-
+for count in range(10137):
+    print("I will sling mud at my friends again.")
+    print(count)
+print("loop end")
 
 ########################################################################
 # Task 2:
